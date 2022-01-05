@@ -1,7 +1,9 @@
 ### Hi there,I am Mintimate 👋
 
 #### Now
-- Make A Online Tool: htttps://tool.mintimate.cn
+- Make A Online Tool: [https://tool.mintimate.cn](https://tool.mintimate.cn)
+- Make A Blog: [https://www.mintimate.cn](https://www.mintimate.cn)
+
 
 #### Hobbies?
 - ⛏ I use daily: .java, .js, .html, .css, .vue
