@@ -9,7 +9,7 @@
 - ⛏ I use daily: .java, .js, .html, .css, .vue
 - 📝 I like writing in: [Mintimate's Blog](https://www.mintimate.cn), [Tencent Developer Community](https://cloud.tencent.com/developer/user/7704194)
 - 🎥 For Funny: [Mintimate's Bilibili Space](https://space.bilibili.com/355567627)
-- 🖥 Using Devices: Unix(Major: Debian and macOS), I don't like using Windows 👾 
+- 🖥 Using Devices: Unix or Linux(Major: Debian and macOS), I don't like using Windows 👾 
 
 <!--
 **Mintimate/Mintimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
