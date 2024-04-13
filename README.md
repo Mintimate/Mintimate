@@ -1,12 +1,17 @@
-### Hi there,I am Mintimate 👋
+<p style="text-align: center;"><a href="https://www.mintimate.cn/about"><img width="80%" alt="Hello, I'm Mintimate. Nice to see you!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 #### Now
 - Make A Online Tool: [https://tool.mintimate.cn](https://tool.mintimate.cn)
 - Make A Blog: [https://www.mintimate.cn](https://www.mintimate.cn)
+- Make A Template For Rime: [https://www.mintimate.cc](https://www.mintimate.cc)
 
+| <img style="align: center" src="https://github-readme-stats.vercel.app/api?username=Mintimate&theme=synthwave&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img style="align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintimate&layout=donut&theme=synthwave&hide_border=true" /> |
+| ------------- | ------------- |
 
 #### Hobbies?
-- ⛏ I use daily: .java, .js, .html, .css, .vue
+- ⛏ I use daily: .java, .js, .html, .css, .vue, .py
 - 📝 I like writing in: [Mintimate's Blog](https://www.mintimate.cn), [Tencent Developer Community](https://cloud.tencent.com/developer/user/7704194)
 - 🎥 For Funny: [Mintimate's Bilibili Space](https://space.bilibili.com/355567627) | [Mintimate's Youtube Space](https://www.youtube.com/channel/UCI7LLdUGNzkcKOE7grAqCoA)
 - 🖥 Using Devices: Unix or Linux(Major: Debian and macOS), I don't like using Windows 👾 
