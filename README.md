@@ -1,4 +1,4 @@
-<p style="text-align: center;"><a href="https://www.mintimate.cn/about"><img width="80%" alt="Hello, I'm Mintimate. Nice to see you!" src="./assets/gh-readme-header.png" /></a></p>
+<p style="text-align: center;"><a href="https://www.mintimate.cn/about"><img style="display: block; margin: 0 auto;" width="80%" alt="Hello, I'm Mintimate. Nice to see you!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
