@@ -7,7 +7,7 @@
 - Make A Blog: [https://www.mintimate.cn](https://www.mintimate.cn)
 - Make A Template For Rime: [https://www.mintimate.cc](https://www.mintimate.cc)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mintimate&theme=synthwave&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintimate&layout=donut&theme=synthwave&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.mintimate.cn/api?username=Mintimate&theme=synthwave&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.mintimate.cn/api/top-langs/?username=Mintimate&layout=donut&theme=synthwave&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Hobbies?
