@@ -44,6 +44,6 @@ Recently enjoying the magic of **Vibe Coding** with the help of AI:
 ### 📊 GitHub Stats
 
 <p>
-  <img height="195" src="https://github-stats.mintimate.cn/api?username=Mintimate&theme=synthwave&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Mintimate's github stats" />
-  <img height="195" src="https://github-stats.mintimate.cn/api/top-langs/?username=Mintimate&layout=donut&theme=synthwave&hide_border=true" />
+  <img align="top" height="165" src="https://github-stats.mintimate.cn/api?username=Mintimate&theme=synthwave&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Mintimate's GitHub Stats" />
+  <img align="top" height="165" src="https://github-stats.mintimate.cn/api/top-langs/?username=Mintimate&layout=donut&theme=synthwave&hide_border=true&langs_count=5" alt="Most Used Languages" />
 </p>
